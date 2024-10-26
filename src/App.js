@@ -1,8 +1,10 @@
-import './App.css';
+import Thumb from './Components/Thumb.jsx'
 
 function App() {
   return (
-    <div>Hola</div>
+    <>
+    <Thumb/>
+    </>
   );
 }
 
